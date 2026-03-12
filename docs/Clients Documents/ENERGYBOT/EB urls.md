@@ -1,0 +1,90 @@
+## 404
+| Address | Content Type | Status Code | Status | Indexability | Indexability Status | Inlinks | Response Time | Redirect URL | Redirect Type |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| https://www.energybot.com/blog/best-solar-batteries.html | text/html | 404 | Not Found | Non-Indexable | Client Error | 33 | 0.153 | NaN | NaN |
+| https://www.energybot.com/app-ui/ | text/html | 403 | Forbidden | Non-Indexable | Client Error | 0 | 0.045 | NaN | NaN |
+| https://www.energybot.com/utilities/jersey-central-power-light.html | text/html | 404 | Not Found | Non-Indexable | Client Error | 3 | 0.053 | NaN | NaN |
+| https://www.energybot.com/blog/quietest-generators.html | text/html | 404 | Not Found | Non-Indexable | Client Error | 5 | 0.056 | NaN | NaN |
+| https://www.energybot.com/blog/best-solar-power-banks.html | text/html | 404 | Not Found | Non-Indexable | Client Error | 1 | 0.148 | NaN | NaN |
+| https://www.energybot.com/utilities/sharyland-utilities.html | text/html | 404 | Not Found | Non-Indexable | Client Error | 2 | 0.128 | NaN | NaN |
+| https://www.energybot.com/utilities/con-edison.html | text/html | 404 | Not Found | Non-Indexable | Client Error | 2 | 0.132 | NaN | NaN |
+| https://www.energybot.com/utilities/national-grid.html | text/html | 404 | Not Found | Non-Indexable | Client Error | 2 | 0.148 | NaN | NaN |
+| https://www.energybot.com/utilities/nyseg.html | text/html | 404 | Not Found | Non-Indexable | Client Error | 2 | 0.055 | NaN | NaN |
+| https://www.energybot.com/images/partner-bunny-energy.png | text/html | 404 | Not Found | Non-Indexable | Client Error | 0 | 0.124 | NaN | NaN |
+
+## 3xx
+| Address | Content Type | Status Code | Status | Indexability | Indexability Status | Inlinks | Response Time | Redirect URL | Redirect Type |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| https://www.energybot.com/careers.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 665 | 0.058 | https://www.energybot.com/careers/ | HTTP Redirect |
+| https://www.energybot.com/incentives.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 704 | 0.188 | https://www.energybot.com/incentives/ | HTTP Redirect |
+| https://www.energybot.com/developer-portal.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 668 | 0.149 | https://www.energybot.com/developer-portal/ | HTTP Redirect |
+| https://www.energybot.com/license-information.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 665 | 0.144 | https://www.energybot.com/about/license-information.html | HTTP Redirect |
+| https://www.energybot.com/about.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 669 | 0.159 | https://www.energybot.com/about/ | HTTP Redirect |
+| https://www.energybot.com/energy-usage-calculator.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 727 | 0.148 | https://www.energybot.com/tools/energy-usage-calculator.html | HTTP Redirect |
+| https://www.energybot.com/partner-with-us.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 665 | 0.153 | https://www.energybot.com/partners/partner-with-us.html | HTTP Redirect |
+| https://www.energybot.com/terms-of-service.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 665 | 0.167 | https://www.energybot.com/about/terms-of-service.html | HTTP Redirect |
+| https://www.energybot.com/reviews.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 671 | 0.137 | https://www.energybot.com/reviews/ | HTTP Redirect |
+| https://www.energybot.com/faqs.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 665 | 0.156 | https://www.energybot.com/about/faqs.html | HTTP Redirect |
+| https://www.energybot.com/providers | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 768 | 0.045 | https://www.energybot.com/providers/ | HTTP Redirect |
+| https://www.energybot.com/lowest-rate-guaranteed.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 667 | 0.047 | https://www.energybot.com/about/lowest-rate-guaranteed.html | HTTP Redirect |
+| https://www.energybot.com/contact-us.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1350 | 0.047 | https://www.energybot.com/contact-us/ | HTTP Redirect |
+| https://www.energybot.com/natural-gas.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 667 | 0.047 | https://www.energybot.com/natural-gas/ | HTTP Redirect |
+| https://www.energybot.com/electricity-rates-by-state.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1399 | 0.160 | https://www.energybot.com/electricity-rates/ | HTTP Redirect |
+| https://www.energybot.com/electricity-rates/texas/business-commercial-electricity/ | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2002 | 0.156 | https://www.energybot.com/electricity-rates/texas/business-commercial-electricity.html | HTTP Redirect |
+| https://www.energybot.com/privacy-policy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 665 | 0.048 | https://www.energybot.com/about/privacy-policy.html | HTTP Redirect |
+| https://www.energybot.com/texas-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 671 | 0.148 | https://www.energybot.com/electricity-rates/texas | HTTP Redirect |
+| https://www.energybot.com/solar-calculator.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 726 | 0.148 | https://www.energybot.com/solar-panels/solar-calculator.html | HTTP Redirect |
+| http://energybot.com/ | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.034 | https://energybot.com/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/apg-e.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 3 | 0.047 | https://www.energybot.com/providers/apg-e/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/txu-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.050 | https://www.energybot.com/providers/txu-energy/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/constellation-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.255 | https://www.energybot.com/providers/constellation-energy/ | HTTP Redirect |
+| https://www.energybot.com/providers/rhythm-energy | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.044 | https://www.energybot.com/providers/rhythm-energy/ | HTTP Redirect |
+| https://www.energybot.com/old-home.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 9 | 0.069 | https://www.energybot.com/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/texpo-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.045 | https://www.energybot.com/providers/texpo-energy/ | HTTP Redirect |
+| https://www.energybot.com/blog/energy-deregulation-guide.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 11 | 0.044 | https://www.energybot.com/blog/energy-deregulation-states-with-deregulated-electricity-natural-gas.html | HTTP Redirect |
+| https://www.energybot.com/business-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 15 | 0.051 | https://www.energybot.com/electricity-rates/texas/business-commercial-electricity.html | HTTP Redirect |
+| https://www.energybot.com/switch-electric-companies.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.059 | https://www.energybot.com/blog/how-to-switch-electric-companies.html | HTTP Redirect |
+| https://www.energybot.com/electricity-rates | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 254 | 0.178 | https://www.energybot.com/electricity-rates/ | HTTP Redirect |
+| https://www.energybot.com/power-to-choose-texas.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.045 | https://www.energybot.com/electricity-rates/texas/power-to-choose-texas.html | HTTP Redirect |
+| https://energybot.com/contact-us.html | NaN | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.056 | https://www.energybot.com/contact-us.html | HTTP Redirect |
+| https://www.energybot.com/electricity-suppliers.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 7 | 0.045 | https://www.energybot.com/providers/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/engie-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.059 | https://www.energybot.com/providers/engie-energy/ | HTTP Redirect |
+| https://www.energybot.com/solar-panels/massachusetts | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.044 | https://www.energybot.com/solar-panels/massachusetts/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/direct-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 4 | 0.049 | https://www.energybot.com/providers/direct-energy/ | HTTP Redirect |
+| https://www.energybot.com/blog/wholesale-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.047 | https://www.energybot.com/blog/index.html | HTTP Redirect |
+| https://www.energybot.com/blog/the-download-on-energy-deregulation.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 3 | 0.055 | https://www.energybot.com/blog/energy-deregulation-guide.html | HTTP Redirect |
+| https://www.energybot.com/suppliers/green-mountain-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 6 | 0.047 | https://www.energybot.com/providers/green-mountain-energy/ | HTTP Redirect |
+| https://www.energybot.com/electricity-rates/ohio | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 8 | 0.044 | https://www.energybot.com/electricity-rates/ohio/ | HTTP Redirect |
+| https://www.energybot.com/blog | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 265 | 0.047 | https://www.energybot.com/blog/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/cirro-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 4 | 0.135 | https://www.energybot.com/providers/cirro-energy/ | HTTP Redirect |
+| https://www.energybot.com/electricity-rates/texas | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 223 | 0.050 | https://www.energybot.com/electricity-rates/texas/ | HTTP Redirect |
+| https://energybot.com/ | NaN | 301 | Moved Permanently | Non-Indexable | Redirected | 5 | 0.155 | https://www.energybot.com/ | HTTP Redirect |
+| https://www.energybot.com/business-energy-suppliers.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.046 | https://www.energybot.com/electricity-rates/business/business-energy-suppliers.html | HTTP Redirect |
+| https://www.energybot.com/suppliers/reliant-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.049 | https://www.energybot.com/providers/reliant-energy/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/pulse-power.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.045 | https://www.energybot.com/providers/pulse-power/ | HTTP Redirect |
+| https://www.energybot.com/suppliers/summer-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.150 | https://www.energybot.com/providers/summer-energy/ | HTTP Redirect |
+| https://www.energybot.com/energy-broker.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.050 | https://www.energybot.com/electricity-rates/business/energy-broker.html | HTTP Redirect |
+| https://www.energybot.com/electricity-rates/new-york | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 5 | 0.058 | https://www.energybot.com/electricity-rates/new-york/ | HTTP Redirect |
+| https://www.energybot.com/electricity-bill-calculator.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.134 | https://www.energybot.com/tools/electricity-bill-calculator.html | HTTP Redirect |
+| https://energybot.com/blog/how-to-calculate-energy-efficiency.html | NaN | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.123 | https://www.energybot.com/blog/how-to-calculate-energy-efficiency.html | HTTP Redirect |
+| https://www.energybot.com/providers/constellation-energy | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.103 | https://www.energybot.com/providers/constellation-energy/ | HTTP Redirect |
+| https://www.energybot.com/blog/average-energy-consumption-per-household-2022-u.s-study.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.541 | https://www.energybot.com/blog/average-energy-consumption.html | HTTP Redirect |
+| https://energybot.com/incentives.html | NaN | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.187 | https://www.energybot.com/incentives.html | HTTP Redirect |
+| https://www.energybot.com/massachusetts-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.052 | https://www.energybot.com/electricity-rates/massachusetts/ | HTTP Redirect |
+| https://energybot.com/electricity-plan-study.html | NaN | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.044 | https://www.energybot.com/electricity-plan-study.html | HTTP Redirect |
+| https://www.energybot.com/providers/direct-energy | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.118 | https://www.energybot.com/providers/direct-energy/ | HTTP Redirect |
+| https://www.energybot.com/utilities | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 23 | 0.149 | https://www.energybot.com/utilities/ | HTTP Redirect |
+| https://energybot.com/energy-usage/led-light-bulb.html | NaN | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.116 | https://www.energybot.com/energy-usage/led-light-bulb.html | HTTP Redirect |
+| https://www.energybot.com/illinois-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 3 | 0.055 | https://www.energybot.com/electricity-rates/illinois/ | HTTP Redirect |
+| https://www.energybot.com/get-started.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.059 | https://www.energybot.com/developer-portal/get-started.html | HTTP Redirect |
+| https://www.energybot.com/green | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 6 | 0.117 | https://www.energybot.com/index.html | HTTP Redirect |
+| https://www.energybot.com/pennsylvania-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.048 | https://www.energybot.com/electricity-rates/pennsylvania | HTTP Redirect |
+| https://www.energybot.com/providers/gexa-energy | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.052 | https://www.energybot.com/providers/gexa-energy/ | HTTP Redirect |
+| https://www.energybot.com/new-york-energy.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 3 | 0.165 | https://www.energybot.com/electricity-rates/new-york/ | HTTP Redirect |
+| https://www.energybot.com/electricity-rates/pennsylvania | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 5 | 0.054 | https://www.energybot.com/electricity-rates/pennsylvania/ | HTTP Redirect |
+| https://www.energybot.com/channel-partners.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.118 | https://www.energybot.com/partners/channel-partners.html | HTTP Redirect |
+| https://www.energybot.com/business-home.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 2 | 0.156 | https://www.energybot.com/app.html | HTTP Redirect |
+| https://www.energybot.com/electricity-rates/illinois | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 3 | 0.053 | https://www.energybot.com/electricity-rates/illinois/ | HTTP Redirect |
+| https://energybot.com/electricity-rates-by-state.html | NaN | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.053 | https://www.energybot.com/electricity-rates-by-state.html | HTTP Redirect |
+| https://www.energybot.com/texas/houston-electricity-rates.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.055 | https://www.energybot.com/electricity-rates/texas/houston/ | HTTP Redirect |
+| https://www.energybot.com/blog/how-an-energy-audit-saves-your-small-business-money.html | text/html | 301 | Moved Permanently | Non-Indexable | Redirected | 1 | 0.053 | https://www.energybot.com/blog/index.html | HTTP Redirect |
